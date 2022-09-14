@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+}
+
+.calc{
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.top{
+    padding-top: 25px;
+    padding-left: 30px;
+}
+button{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: small;
+}
